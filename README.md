@@ -9,7 +9,7 @@ This project is a Machine Learning model to detect whether an email is **Spam** 
 ## Project Files
 - `Project_3_Spam_mail_Prediction.ipynb` → Jupyter notebook with code and model training.
 - `mail_data.csv` → Dataset file.
-- `requirements.txt` → Python dependencies (to be added).
+- `requirements.txt` → Python dependencies.
 
 ## Steps to Run
 
